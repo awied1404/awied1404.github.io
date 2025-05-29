@@ -11,35 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Applied Research in Computer Science at University of Applied Sciences Augsburg, 2023
+* B.Eng. in Computer Engineering at University of Applied Sciences Augsburg, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Aug 2023 - : Autonomous systems researcher
+  * XITASO GmbH
+  * Duties includes: 
+    * Sensor fusion with RGB-Thermal camera for [VALISENS project](https://valisens.de/index.php/de/)
+    * Reseach in self-adaptive software systems for [ENGEL project](https://xitaso.com/engel)
+    * Research Project management
+    * Student supervision
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep 2021 - June 2023: Research Assistant
+  * University of Applied Sciences Augsburg 
+  * Duties includes: Semantic scene segmentation for autonomous workspace exploration with a robot manipulator
+  * Supervisor: Simon Dietrich, Florian Kerber
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep 2020 - July 2021 Working Student
+  * XITASO GmbH 
+  * Duties included: Bachelor thesis about CAD-based Grasp and Motion Planning for robot manipulator
+
+* Feb - June 2020: Intern Software developer 
+  * BMK Group GmbH & Co. KG 
+  * Duties included: Setting up SFTP server on FreeRTOS
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer Vision including 2D Object detection and 3D semantic segmentation
+* Robotic Software development
+  * ROS/ROS2
+  * Behavior Trees
+* Programming languages such as C/C++/Python
 
 Publications
 ======
@@ -47,18 +51,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
