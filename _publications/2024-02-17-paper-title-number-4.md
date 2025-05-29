@@ -7,7 +7,7 @@ excerpt: 'This paper is about a robot manipulator autonomously exploring a new w
 date: 2023-09-28
 venue: 'CASE 2023'
 paperurl: 'http://awied1404.github.io/files/semantic-scene-segmentation.pdf'
-biburl: 'http://awied1404.github.io/files/sem-seg.bib'
+bibtexurl: 'http://awied1404.github.io/files/sem-seg.bib'
 citation: 'A. Wiedholz, S. Wucherer, S. Dietrich and F. Kerber, "Semantic 3D Scene Segmentation for Robotic Assembly Process Execution," 2023 IEEE 19th International Conference on Automation Science and Engineering (CASE), Auckland, New Zealand, 2023, pp. 1-6, doi: 10.1109/CASE56687.2023.10260532.'
 ---
 
