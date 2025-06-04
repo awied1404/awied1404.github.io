@@ -13,6 +13,12 @@ main:
 
   - title: "CV"
     url: /cv/
+
+  - title: "Privacy policy"
+    url: /privacy/
+
+  - title: "About"
+    url: /impressum/
     
   # - title: "CV"
   #   url: /cv-json/
