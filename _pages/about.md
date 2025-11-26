@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-Andreas Wiedholz is a PhD candidate at [XITASO GmbH](https://xitaso.com/) in Augsburg, Germany.
+Andreas Wiedholz is a researcher at [XITASO GmbH](https://xitaso.com/) in Augsburg, Germany.
 His research interests include self-adaptivity in robotics while also aiming for explaining the behavior of robotic systems to users.
