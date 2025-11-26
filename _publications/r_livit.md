@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/rlivit
 excerpt: 'In this work we present the first dataset that includes RGB cameras, IR cameras and LiDAR sensors for autonomous driving from a Road Side Unit Perception'
-date: 2025-18-10
+date: 2025-10-18
 venue: 'IEEE/CVF International Conference on Computer Vision (ICCV)}'
 bibtexurl: 'http://awied1404.github.io/files/rlivit.bib'
 paperurl: 'http://awied1404.github.io/files/rlivit.pdf'
