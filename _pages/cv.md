@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Aug 2023 - : Autonomous systems researcher
+* Aug 2023 - : Autonomous systems researcher (pursuing PhD)
   * XITASO GmbH
   * Duties includes: 
     * Sensor fusion with RGB-Thermal camera for [VALISENS project](https://valisens.de/index.php/de/)
