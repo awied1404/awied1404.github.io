@@ -1,5 +1,5 @@
 ---
-title: "LGAR: Zero-Shot LLM-Guided Neural Ranking for Abstract Screening in Systematic Literature Reviews"
+title: "A Systematic Literature Review on Vehicular Collaborative Perception — A Computer Vision Perspective"
 collection: publications
 category: manuscripts
 permalink: /publication/v2x_slr
