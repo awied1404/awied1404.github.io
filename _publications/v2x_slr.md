@@ -1,0 +1,13 @@
+---
+title: "LGAR: Zero-Shot LLM-Guided Neural Ranking for Abstract Screening in Systematic Literature Reviews"
+collection: publications
+category: manuscripts
+permalink: /publication/v2x_slr
+excerpt: 'In this work a systematic literature review on collaborative perception for autonomous driving was performed. The focus here is on computer vision algorithms and datasets.'
+date: 2025-12-02
+venue: 'IEEE Transactions on Intelligent Transportation Systems'
+bibtexurl: 'http://awied1404.github.io/files/v2x_slr.bib'
+paperurl: 'http://awied1404.github.io/files/v2x_slr.pdf'
+citation: 'Wan, L., Zhao, J., Wiedholz, A., Bied, M., Lucena, M., Dinkar Jagtap, A., Festag, A., Augusto Fröhlich, A., Ejaz Keen, H., & Vinel, A. (2025). A Systematic Literature Review on Vehicular Collaborative Perception—A Computer Vision Perspective. IEEE Transactions on Intelligent Transportation Systems, 1-38.'
+---
+The effectiveness of autonomous vehicles relies on reliable perception capabilities. Despite significant advancements in artificial intelligence and sensor fusion technologies, current single-vehicle perception systems continue to encounter limitations, notably visual occlusions and limited long-range detection capabilities. Collaborative Perception (CP), enabled by Vehicle-to-Vehicle (V2V) and Vehicle-to-Infrastructure (V2I) communication, has emerged as a promising solution to mitigate these issues and enhance the reliability of autonomous systems. Beyond advancements in communication, the computer vision community is increasingly focusing on improving vehicular perception through collaborative approaches. However, a systematic literature review that thoroughly examines existing work and reduces subjective bias is still lacking. Such a systematic approach helps identify research gaps, recognize common trends across studies, and inform future research directions. In response, this study follows the PRISMA 2020 guidelines and includes 106peer-reviewed articles. These publications are analyzed based on modalities, collaboration schemes, and key perception tasks. Through a comparative analysis, this review illustrates how different methods address practical issues such as pose errors, temporal latency, communication constraints, domain shifts, heterogeneity, and adversarial attacks. Furthermore, it critically examines evaluation methodologies, highlighting a misalignment between current metrics and CP’s fundamental objectives. By delving into all relevant topics in-depth, this review offers valuable insights into challenges, opportunities, and risks, serving as a reference for advancing research in vehicular collaborative perception.
