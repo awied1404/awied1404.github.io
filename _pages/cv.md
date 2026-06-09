@@ -45,6 +45,13 @@ Skills
   * Behavior Trees
 * Programming languages such as C/C++/Python
 
+Review activities
+=================
+
+- ACSOS (IEEE International Conference on Autonomic Computing and Self-Organizing Systems) 2026 - As subreviewer
+- RoSE (Robotic Software Engineering Workshop co-located with ICRA) 2026 - As subreviewer
+- SEAMS (International Conference on Software Engineering for Adapting and Self-managing systems) 2026 - As subreviewer
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
